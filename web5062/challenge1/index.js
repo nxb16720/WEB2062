@@ -1,0 +1,1 @@
+const app = querySelector.innerHTML('#app');
